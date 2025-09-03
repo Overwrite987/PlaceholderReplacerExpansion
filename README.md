@@ -3,6 +3,10 @@
 ## EN
 PlaceholderAPI expansion to replace placeholder output
 
+### Installation:
+Place it in the expansions folder in the PlaceholderAPI folder
+<br>Run /papi reload
+
 ### Usage Principle: 
 `%replacer_yourplaceholderwithoutpercent%;valuetobereplaced;replacementvalue%`
 
@@ -13,6 +17,10 @@ PlaceholderAPI expansion to replace placeholder output
 
 ## RU
 Расширение на PlaceholderAPI для замены вывода плейсхолдеров
+
+### Установка:
+Закиньте в папку expansions в паке PlaceholderAPI
+<br>Сделайте /papi reload
 
 ### Принцип использования: 
 `%replacer_твойплейсхолдербезпроцентов;значениекотороедолжнобытьчтобыбылреплейс;значениенакотороезаменить%`
