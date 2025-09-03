@@ -3,7 +3,8 @@
 ## EN
 PlaceholderAPI expansion to replace placeholder output
 
-### Usage Principle: `%replacer_yourplaceholderwithoutpercent%;valuetobereplaced;replacementvalue%`
+### Usage Principle: 
+`%replacer_yourplaceholderwithoutpercent%;valuetobereplaced;replacementvalue%`
 
 ### Example Usage:
 `%replacer_luckperms_prefix;;&aPlayer%`
@@ -13,7 +14,8 @@ PlaceholderAPI expansion to replace placeholder output
 ## RU
 Расширение на PlaceholderAPI для замены вывода плейсхолдеров
 
-### Принцип использования: `%replacer_твойплейсхолдербезпроцентов;значениекотороедолжнобытьчтобыбылреплейс;значениенакотороезаменить%`
+### Принцип использования: 
+`%replacer_твойплейсхолдербезпроцентов;значениекотороедолжнобытьчтобыбылреплейс;значениенакотороезаменить%`
 
 ### Пример использования:
 `%replacer_luckperms_prefix;;&aPlayer%`
